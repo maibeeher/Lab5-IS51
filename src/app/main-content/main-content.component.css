@@ -5,6 +5,8 @@
     background-color: #f6b9fc;
 }
 
-.pull-right {
-    float:right;
+
+
+.main-outlet {
+    display: none;
 }
